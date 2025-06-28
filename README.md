@@ -15,7 +15,7 @@ NIPS\
 　  NIPS_original_train.tsv (for BERSON & NAON)\
 AAN\
   AAN_jsonl.zip\
-　  AAN_GDA_train.jsonl (for REBART)\
+    AAN_GDA_train.jsonl (for REBART)\
   　AAN_QGDA_train.jsonl (for REBART)\
   　AAN_original_dev.jsonl (for REBART)\
   　AAN_original_test.jsonl (for REBART)\
